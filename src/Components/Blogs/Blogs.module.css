@@ -1,0 +1,18 @@
+  .Blogs {
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 40rem;
+  }
+  
+  .Blogs ul {
+    list-style: none;
+    padding: 1rem;
+  }
+  
+  .Blogs li {
+
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+  }
+
+  .Button{margin-inline:40%}
